@@ -6,3 +6,4 @@ git commit -m "commit message"
 git status
 git push origin master
 git pull
+git log
