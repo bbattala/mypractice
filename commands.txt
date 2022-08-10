@@ -1,0 +1,8 @@
+git commands file
+
+git init
+git add .
+git commit -m "commit message"
+git status
+git push origin master
+git pull
